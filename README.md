@@ -81,10 +81,15 @@ I am a Passionate and dedicated back-end developer specializing in Python, eager
 
 ## Github stats 📊
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elmorsi5&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mohamed Elmorsi Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elmorsi5&theme=vision-friendly-dark&show_icons=true" alt="Mohamed Elmorsi Github Stats">
 </p>
+
+---
 
 
 <p align='center'>
-  <img align="center" src="https://streak-stats.demolab.com/?user=Elmorsi5" alt="Mohamed Elmorsi Github Stats">
+<a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Elmorsi5&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+
+
+
