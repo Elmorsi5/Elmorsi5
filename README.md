@@ -18,9 +18,10 @@ class Profile:
 <p></p>
 
 <p align="justify">
-welcome to my GitHub Page. I am Mohamed Elmorsi,
-Python BackEnd Developer 
-</p>
+welcome to my GitHub Page👋.  I am Mohamed Elmorsi,<br>
+I am a Passionate and dedicated back-end developer specializing in Python, eager to apply my skills and contribute to the development of robust and scalable web applications.<br><br> I have experience working with frameworks such as Django utilizing their power to build efficient and maintainable server-side solutions.
+
+ Additionally, I have a solid understanding of database management and SQL, ensuring data integrity and efficient querying. </p>
 
 
 ## My favorite tools and technologies ⚙️
@@ -80,8 +81,10 @@ Python BackEnd Developer
 
 ## Github stats 📊
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elmorsi5&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elmorsi5&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Mohamed Elmorsi Github Stats">
 </p>
 
 
-
+<p align='center'>
+  <img align="center" src="https://streak-stats.demolab.com/?user=Elmorsi5" alt="Mohamed Elmorsi Github Stats">
+</p>
