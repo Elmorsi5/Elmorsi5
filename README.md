@@ -57,6 +57,10 @@ I am a Passionate and dedicated back-end developer specializing in Python, eager
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="48" height="48" />
+      <br>JavaScript
+    </td>
     </td>
  </tr>
  <tr>
